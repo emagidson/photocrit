@@ -1,0 +1,274 @@
+html, body{
+	width: 100%;
+	height:100%;
+
+}
+
+.skrollr-container{
+	width: 100%;
+	height:100%;
+	overflow:hidden;
+}
+
+.sections{
+	position:fixed;
+	width:500%;
+	height:100%;
+	top:0;
+	left:-500px;
+}
+
+/*.section{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+
+}*/
+
+/*.photo{
+	position: absolute;
+	width: 100%;
+	height: auto;
+	top: 0%;
+	left: 0%;
+	overflow:hidden;
+}*/
+
+#photo2{
+	overflow:hidden;
+	left: 0;
+}
+
+#photo3{
+	overflow:hidden;
+	left: 0;
+}
+
+
+#photo4{
+	overflow:hidden;
+	left: 0;
+}
+
+#photo5{
+	overflow:hidden;
+	left: 0;
+}
+
+#photo6{
+	overflow:hidden;
+}
+
+#photo7{
+	overflow:hidden;
+}
+
+#photo8{
+	overflow:hidden;
+}
+
+#photo9{
+	overflow:hidden;
+}
+
+#photo10{
+	overflow:hidden;
+}
+
+#photo11{
+	overflow:hidden;
+}
+
+#photo12{
+	overflow:hidden;
+}
+
+#photo13{
+	overflow:hidden;
+}
+
+#photo14{
+	overflow:hidden;
+}
+
+/*.box{
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 10%;
+		overflow:hidden;
+}*/
+
+.box14{
+	position: absolute;
+	width: 100%;
+	height: 10%;
+	top: 0%;
+/*	background-color: white;*/
+	overflow:hidden;
+}
+
+.box02{
+position: absolute;
+	width: 100%;
+	height: 8%;
+	top: 10%;
+	left:0%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box03{
+	position: absolute;
+	width: 100%;
+	height: 4%;
+	top: 18%;
+	left:0%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box04{
+	position: absolute;
+	width: 100%;
+	height: 6%;
+	top: 22%;
+	left:0%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box05{
+	position: absolute;
+	width: 100%;
+	height: 10%;
+	top: 28%;
+	left:0%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box06{
+	position: absolute;
+	width: 100%;
+	height: 14%;
+	top: 38%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box07{
+	position: absolute;
+	width: 100%;
+	height: 6%;
+	top: 52%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box08{
+	position: absolute;
+	width: 100%;
+	height: 8%;
+	top: 58%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box09{
+	position: absolute;
+	width: 100%;
+	height: 10%;
+	top: 66%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box10{
+	position: absolute;
+	width: 100%;
+	height: 4%;
+	top: 76%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box11{
+	position: absolute;
+	width: 100%;
+	height: 12%;
+	top: 80%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box12{
+	position: absolute;
+	width: 100%;
+	height: 6%;
+	top: 92%;
+	background-color: white;
+	overflow:hidden;
+}
+
+.box13{
+	position: absolute;
+	width: 100%;
+	height: 2%;
+	top: 98%;
+	background-color: white;
+	overflow:hidden;
+}
+
+
+/*#section1{
+	background-color: orange;
+}
+
+#section2{
+	top: 50%;
+	background-color: red;
+}*/
+
+/*#section3{
+	background-color: orange;
+}*/
+	
+/*.next{
+	position: absolute;
+	bottom: 1%;
+	right: 1%;
+}	*/
+
+#helper{
+	/*display:none;*/
+	position:absolute;
+	left:0;
+	top:0;
+	height:10000%;
+	width:20px;
+}
+
+.marker{
+	width:100%;
+	height:10%;
+	border: 2px solid white;
+}
+
+
+/*.spin{
+	position:relative;
+	width:25%;
+	height:20px;
+	top:33%;
+	left:33%;
+	background-color: cyan;
+}
+*/
+
+
+
+
